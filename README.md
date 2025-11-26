@@ -7,4 +7,4 @@ I am a certified Data Scientist and Software Developer. I have continuously deve
 
 
 # SQL Projects
- git submodule add <https://github.com/Yilmazhb/Hospital-statistics-in-Germany>
+[Hospital statistics in Germany](https://github.com/Yilmazhb/Hospital-statistics-in-Germany)
