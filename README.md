@@ -7,4 +7,4 @@ I am a certified Data Scientist and Software Developer. I have continuously deve
 
 
 # SQL Projects
-[Hospital statistics in Germany](https://github.com/Yilmazhb/Hospital-statistics-in-Germany)
+1. [Hospital statistics in Germany](https://github.com/Yilmazhb/Hospital-statistics-in-Germany)
