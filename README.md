@@ -7,4 +7,4 @@ I am a certified Data Scientist and Software Developer. I have continuously deve
 
 
 # SQL Projects
-1. [Hospital statistics in Germany](https://github.com/Yilmazhb/Hospital-statistics-in-Germany) : This project focuses on analyzing hospital statistics in Germany. The goal is to explore and gain insights into various aspects of the German healthcare system using publicly available data.
+1. [Hospital statistics in Germany](https://github.com/Yilmazhb/Hospital-statistics-in-Germany) : This SQL analytics project explores comprehensive German hospital statistics to uncover disease patterns, demographic distributions, and healthcare trends. The analysis transforms raw medical data into actionable insights for healthcare optimization and public health understanding. The dataset is sourced from Germany's official data portal "GovData – Das Datenportal für Deutschland", providing authoritative hospital statistics with ICD-10 classifications, patient demographics, and nationwide coverage. This represents official public health data from the German healthcare system.
