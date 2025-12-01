@@ -8,3 +8,5 @@ I am a certified Data Scientist and Software Developer. I have continuously deve
 
 # SQL Projects
 1. [Hospital statistics in Germany](https://github.com/Yilmazhb/Hospital-statistics-in-Germany) : This SQL analytics project explores comprehensive German hospital statistics to uncover disease patterns, demographic distributions, and healthcare trends. The analysis transforms raw medical data into actionable insights for healthcare optimization and public health understanding. The dataset is sourced from Germany's official data portal "GovData – Das Datenportal für Deutschland", providing authoritative hospital statistics with ICD-10 classifications, patient demographics, and nationwide coverage. This represents official public health data from the German healthcare system.
+
+2. [Pizza Sales Analysis](https://github.com/Yilmazhb/Pizza-Sales-Analysis) : The analysis of pizza orders provides a comprehensive and differentiated picture of business performance that goes far beyond simple sales figures. The insights gained form a solid basis for data-driven decisions in almost all areas of the company.
